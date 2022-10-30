@@ -1,0 +1,7 @@
+{
+ "url-backend": "127.0.0.1",
+ "port": 9999,
+
+ "data-db-connection": "mongodb+srv://GinaCaicedo:GinaCaicedo@cluster0.nbys6xb.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-Registraduria"
+}
